@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=500&color=00F775&multiline=true&height=190&lines=while+!dead%3A;&nbsp;&nbsp;&nbsp;eat();&nbsp;&nbsp;&nbsp;%23sleep();&nbsp;&nbsp;&nbsp;code())](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=500&color=00F775&multiline=true&height=110&lines=while+!dead%3A;&nbsp;&nbsp;&nbsp;eat();&nbsp;&nbsp;&nbsp;%23sleep();&nbsp;&nbsp;&nbsp;code())](https://git.io/typing-svg)
